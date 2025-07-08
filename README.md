@@ -22,6 +22,6 @@ Headquartered in Sydney, Canva offers a user-friendly, drag-and-drop interface t
 ## Join Our Team
 We're actively hiring backend Java engineers across all levels:
 
-- **Mid-level Engineers** 
-- **Senior Engineers** 
-- ** Staff Engineers** 
+- ** Software Engineers** 
+- **Senior Engineer ** 
+- ** Staff Engineers**
