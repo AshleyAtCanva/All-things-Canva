@@ -23,5 +23,5 @@ Headquartered in Sydney but hiring globally, Canva offers a user-friendly, drag-
 We're actively hiring backend Java engineers across all levels:
 
 - ** Software Engineers** 
-- **Senior Engineer ** 
+- **Senior Engineers ** 
 - ** Staff Engineers**
